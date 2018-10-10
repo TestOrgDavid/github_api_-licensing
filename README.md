@@ -1,4 +1,4 @@
-# github_api_-licensing
+# github_api_licensing
 This project allows you to detect unlicensed repositories in a Github organization. It then creates a pull request to add an Apache License 2.0 as the project license. 
 
 
